@@ -17,5 +17,5 @@ https://drive.google.com/file/d/1s0LcoM4oahVaumhuKXDUvtSs-A8Toe5n/view?usp=drive
 
 ```text
 Presentation Deck Link:
-(Add your Google Drive PPT/PDF link here)
+https://drive.google.com/file/d/15qnh3aVMe4_E5IeWdSdNiC_Nz_7jmr2A/view?usp=sharing
 ```
